@@ -6,7 +6,7 @@
     width:100%;
     /* background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5),url("https://cdn.pixabay.com/photo/2015/07/09/22/45/tree-838667_1280.jpg")); */
     /* background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)); */
-    background-image: url("file:///C:/Users/2302672/Downloads/Personal/image/tree.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2015/07/09/22/45/tree-838667_1280.jpg");
     background-position: center;
     background-size:cover;
     height: 100vh;
